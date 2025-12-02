@@ -1,0 +1,82 @@
+# Summary Report – November Temperature Trends (21–29 Nov)
+
+This report provides an overview of observed temperature trends based on the cleaned dataset for the dates 21–29 November. The dataset includes recorded maximum temperatures, normal minimum temperatures, and forecasted temperature values.
+
+---
+
+## ⭐ Overview of Dataset
+
+The dataset covers:
+
+* **9 days** of observations (21–29 November)
+* **Maximum temperature (Tmax)** readings for most days
+* **Forecasted maximum temperature** for 28–29 Nov
+* **Normal minimum temperature (Tmin Normal)** values for most days
+* **Forecasted minimum temperature** only on 29 Nov
+* Many **actual Tmin values are missing**
+
+---
+
+## 🌡️ Tmax (Actual Maximum Temperature) Trend
+
+* Tmax decreases gradually from **28.6°C → ~26°C** between **21–27 Nov**.
+* This shows a **cooling trend** across the week.
+* On 28 and 29 Nov, actual Tmax was not recorded but forecasted values indicate **a warming trend**:
+
+  * **28°C** on 28 Nov
+  * **29°C** on 29 Nov
+* This suggests that while the week was cooling, the last two days showed predicted warming.
+
+---
+
+## 📈 Forecast Tmax Trend
+
+* The forecast predicts a slight **increase**:
+
+  * From **28°C** → **29°C**
+* This contrasts with the earlier downward trend, signaling possible short-term atmospheric change (e.g., clearer skies or reduced cloud cover).
+
+---
+
+## 🌙 Tmin Normal Trend
+
+* Normal Tmin values drop from **15.8°C** down to **12.4°C**.
+* This indicates **progressively colder nights** as November advances.
+* Missing values on some dates prevent a fully continuous trend, but overall direction is clear.
+
+---
+
+## 🌙 Forecast Tmin Trend
+
+* Only one forecast Tmin value is available:
+
+  * **15°C on 29 Nov**
+* This value is **higher** than Tmin Normal for most dates, suggesting a temporary warming effect.
+
+---
+
+## ❗ Data Gaps & Limitations
+
+* Many entries, especially **actual Tmin**, are missing.
+* Tmax Normal is missing for all dates.
+* Some dates contain only forecasts, not observed values.
+* These gaps reduce the ability to compare actual vs normal vs forecast temperatures accurately.
+
+---
+
+## 📌 Key Conclusions
+
+1. **Actual maximum temperatures** showed a **steady decline** until 27 Nov.
+2. **Forecasted Tmax** shows a **reversal**, predicting warmer temperatures on 28–29 Nov.
+3. **Normal Tmin** trends downward, confirming cooler late-November nights.
+4. **Forecast Tmin (29 Nov)** suggests a short-term warming anomaly.
+5. Missing data restricts deep comparative analysis, but overall trends remain clear.
+
+---
+
+If you'd like, I can also generate:
+✔ Jupyter Notebook
+✔ Python script
+✔ PDF report
+✔ More visualizations (bar chart, combined line graphs)
+Just tell me!
